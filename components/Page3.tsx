@@ -13,27 +13,27 @@ function Page3() {
       <h1 className='text-3xl w-[30vw] font-bold'>Developed more than <span className=' text-[#80aa49]'>100</span> projects in <span className=' text-[#80aa49]'>15</span> industries</h1>
       <div className=' mt-[5vh] flex justify-between'>
         <ul className=' flex flex-col gap-5'>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBrandBadoo/>}/>Social Media</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBrandDribbble/>}/>Fitness & Sports</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBuildingBank/>}/>Bank</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBackhoe/>}/>Construction</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconDeviceGamepad2/>}/>Game projects</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBrandBadoo/></LogoMaker>Social Media</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBrandDribbble/></LogoMaker>Fitness & Sports</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBuildingBank/></LogoMaker>Bank</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBackhoe/></LogoMaker>Construction</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconDeviceGamepad2/></LogoMaker>Game projects</li>
             
         </ul>
         <ul className=' flex flex-col gap-5'>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBrandBadoo/>}/>Social Media</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBrandDribbble/>}/>Fitness & Sports</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBuildingBank/>}/>Bank</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBackhoe/>}/>Construction</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconDeviceGamepad2/>}/>Game projects</li>
+        <li className=' flex gap-3 items-center'><LogoMaker><IconBrandBadoo/></LogoMaker>Social Media</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBrandDribbble/></LogoMaker>Fitness & Sports</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBuildingBank/></LogoMaker>Bank</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBackhoe/></LogoMaker>Construction</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconDeviceGamepad2/></LogoMaker>Game projects</li>
             
         </ul>
         <ul className=' flex flex-col gap-5'>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBrandBadoo/>}/>Social Media</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBrandDribbble/>}/>Fitness & Sports</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBuildingBank/>}/>Bank</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconBackhoe/>}/>Construction</li>
-            <li className=' flex gap-3 items-center'><LogoMaker children={<IconDeviceGamepad2/>}/>Game projects</li>
+        <li className=' flex gap-3 items-center'><LogoMaker><IconBrandBadoo/></LogoMaker>Social Media</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBrandDribbble/></LogoMaker>Fitness & Sports</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBuildingBank/></LogoMaker>Bank</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconBackhoe/></LogoMaker>Construction</li>
+            <li className=' flex gap-3 items-center'><LogoMaker><IconDeviceGamepad2/></LogoMaker>Game projects</li>
             
         </ul>
       </div>
